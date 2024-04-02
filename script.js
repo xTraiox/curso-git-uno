@@ -8,12 +8,12 @@ const playAgainBtn = document.getElementById("play-again-btn");
 const resultText = document.getElementById("result");
 
 const cards = [
-  { name: "A", value: 110 },
-  { name: "2", value: 20 },
-  { name: "3", value: 30 },
-  { name: "4", value: 4 },
-  { name: "5", value: 5 },
-  { name: "6", value: 6 },
+  { name: "A", value: 110000 },
+  { name: "2", value: 2000 },
+  { name: "3", value: 30000 },
+  { name: "4", value: 40000},
+  { name: "5", value: 50000 },
+  { name: "6", value: 60000 },
   { name: "7", value: 7 },
   { name: "8", value: 8 },
   { name: "9", value: 9 },
